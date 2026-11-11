@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "inbox/*.zip"
+      - "*.zip"
   workflow_dispatch:
 
 permissions:

@@ -21,7 +21,7 @@ jobs:
       - name: Unzip into content/
         run: |
           shopt -s nullglob
-          for z in inbox/*.zip; do
+          for z in inbox/*.zip *.zip; do
             unzip -o -q "$z" -d content/
             git rm -q "$z"
           done

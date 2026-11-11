@@ -97,17 +97,12 @@ def run(mode):
     items = json.load(open(f"{d}/manifest.json"))
     url = lambda f: f"{RAW}/day_{s['day']:03d}/{f}"
     if mode == "am":
-        # newest post shows first in the grid, so publish Q8 -> Q1 to keep Q1 on top
-        for it in sorted(items, key=lambda x: -x["n"]):
-            key = f"post{it['n']}"
-            if key not in s["done"]:
-                publish(url(it["post"]), caption=it["caption"]); s["done"].append(key); save_state(s)
         for it in items:  # stories play in order Q1 -> Q8
             key = f"am{it['n']}"
             if key not in s["done"]:
                 publish(url(it["story_am"]), story=True); s["done"].append(key); save_state(s)
     elif mode == "pm":
-        if not any(k.startswith("post") for k in s["done"]):
+        if not any(k.startswith("am") for k in s["done"]):
             raise SystemExit("Morning posts of this day were not published; solutions skipped.")
         for it in items:
             key = f"pm{it['n']}"

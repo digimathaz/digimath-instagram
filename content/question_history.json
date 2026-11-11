@@ -1,0 +1,1264 @@
+[
+  {
+    "day": 1,
+    "n": 1,
+    "exam": "SAT",
+    "domain": "Algebra",
+    "topic": "Systems of equations",
+    "question": "If 3x + 2y = 18 and x - y = 1, what is the value of x + y?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "solution": [
+      "From the 2nd equation: x = y + 1",
+      "Substitute: 3(y+1) + 2y = 18",
+      "5y = 15 ⇒ y = 3, so x = 4",
+      "x + y = 4 + 3 = 7"
+    ],
+    "desmos_used": true,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 1,
+    "n": 2,
+    "exam": "SAT",
+    "domain": "Advanced Math",
+    "topic": "Quadratic functions",
+    "question": "The function f is defined by f(x) = x² - 6x + 5. What is the minimum value of f(x)?",
+    "options": {
+      "A": "-9",
+      "B": "-4",
+      "C": "3",
+      "D": "5"
+    },
+    "correct": "B",
+    "solution": [
+      "Parabola opens up → minimum at the vertex",
+      "Vertex: x = -b/2a = 6/2 = 3",
+      "f(3) = 9 - 18 + 5 = -4"
+    ],
+    "desmos_used": true,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 1,
+    "n": 3,
+    "exam": "SAT",
+    "domain": "Geometry & Trigonometry",
+    "topic": "Trigonometric ratios",
+    "question": "In right triangle ABC, angle C measures 90°. If sin A = 5/13, what is the value of tan B?",
+    "options": {
+      "A": "5/12",
+      "B": "12/13",
+      "C": "12/5",
+      "D": "13/5"
+    },
+    "correct": "C",
+    "solution": [
+      "sin A = opposite / hypotenuse → BC = 5, AB = 13",
+      "AC = √13² - 5² = 12",
+      "tan B = opposite / adjacent = AC / BC",
+      "tan B = 12/5"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 1,
+    "n": 4,
+    "exam": "SAT",
+    "domain": "Problem-Solving & Data Analysis",
+    "topic": "Percentages",
+    "question": "A store lowers the price of a jacket by 20%. Later, it raises the new price by 25%. The final price is what percent of the original price?",
+    "options": {
+      "A": "80%",
+      "B": "95%",
+      "C": "100%",
+      "D": "105%"
+    },
+    "correct": "C",
+    "solution": [
+      "Decrease by 20% → multiply by 0.80",
+      "Increase by 25% → multiply by 1.25",
+      "0.80 × 1.25 = 1.00 → 100%"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 1,
+    "n": 5,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Percent",
+    "question": "Sabir and Vahid shared some apples. Sabir received 39 apples and Vahid received 48% of all the apples. How many apples were there in total?",
+    "options": {
+      "A": "100",
+      "B": "80",
+      "C": "52",
+      "D": "75",
+      "E": "68"
+    },
+    "correct": "D",
+    "solution": [
+      "Sabir's share: 100% - 48% = 52%",
+      "52% of the total = 39",
+      "Total: 39 : 0.52 = 75"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2025 · 27 April (book: Ch.3 No.35)"
+  },
+  {
+    "day": 1,
+    "n": 6,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Systems of equations",
+    "question": "Find xy from the system: y = 0{.}(6)x 3y + 5x = 21",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "8",
+      "D": "10",
+      "E": "2"
+    },
+    "correct": "B",
+    "solution": [
+      "0{.}(6) = 2/3, so y = 2/3x",
+      "3 · 2/3x + 5x = 21 ⇒ 7x = 21",
+      "x = 3, y = 2",
+      "xy = 6"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 24 April (book: Ch.10 No.9)"
+  },
+  {
+    "day": 1,
+    "n": 7,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Trapezoid",
+    "question": "In isosceles trapezoid ABCD (AD = BC), DC = 6, KM is the midline, KM = 16 and CH ⊥ AB. Find HB.",
+    "options": {
+      "A": "14",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "E": "10"
+    },
+    "correct": "E",
+    "solution": [
+      "AB + DC = 2 · KM = 32 ⇒ AB = 26",
+      "Isosceles trapezoid: HB = (AB - DC) : 2",
+      "HB = (26 - 6) : 2 = 10"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 1 May (book: Ch.18 No.22)"
+  },
+  {
+    "day": 1,
+    "n": 8,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Trapezoid",
+    "question": "A circle is inscribed in an isosceles trapezoid with bases 9 cm and 16 cm. Find the radius of the circle.",
+    "options": {
+      "A": "7 cm",
+      "B": "5 cm",
+      "C": "4 cm",
+      "D": "8 cm",
+      "E": "6 cm"
+    },
+    "correct": "E",
+    "solution": [
+      "Inscribed circle: sum of legs = sum of bases = 25",
+      "Leg = 12.5; projection: (16 - 9) : 2 = 3.5",
+      "h = √12.5² - 3.5² = √144 = 12",
+      "r = h : 2 = 6 cm"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 18 June (book: Ch.18 No.3)"
+  },
+  {
+    "day": 2,
+    "n": 1,
+    "exam": "SAT",
+    "domain": "Algebra",
+    "topic": "Linear equations",
+    "question": "If 4(x - 3) + 7 = 2x + 9, what is the value of x?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "solution": [
+      "Expand: 4x - 12 + 7 = 2x + 9",
+      "4x - 5 = 2x + 9",
+      "2x = 14 ⇒ x = 7"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 2,
+    "n": 2,
+    "exam": "SAT",
+    "domain": "Advanced Math",
+    "topic": "Quadratic equations",
+    "question": "What is the positive solution of the equation x² - 2x - 15 = 0 ?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "8",
+      "D": "15"
+    },
+    "correct": "B",
+    "solution": [
+      "Factor: (x - 5)(x + 3) = 0",
+      "x = 5 or x = -3",
+      "Positive solution: x = 5"
+    ],
+    "desmos_used": true,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 2,
+    "n": 3,
+    "exam": "SAT",
+    "domain": "Geometry & Trigonometry",
+    "topic": "Circles",
+    "question": "A circle in the xy-plane has equation x² + y² - 6x + 8y = 0. What is the radius of the circle?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "25"
+    },
+    "correct": "C",
+    "solution": [
+      "Complete the square:",
+      "(x - 3)² + (y + 4)² = 9 + 16 = 25",
+      "r² = 25 ⇒ r = 5"
+    ],
+    "desmos_used": true,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 2,
+    "n": 4,
+    "exam": "SAT",
+    "domain": "Problem-Solving & Data Analysis",
+    "topic": "Statistics (mean)",
+    "question": "The mean of 5 numbers is 18. When a sixth number is added, the mean becomes 20. What is the sixth number?",
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "30",
+      "D": "38"
+    },
+    "correct": "C",
+    "solution": [
+      "Sum of 5 numbers: 5 · 18 = 90",
+      "Sum of 6 numbers: 6 · 20 = 120",
+      "Sixth number: 120 - 90 = 30"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 2,
+    "n": 5,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Systems of equations",
+    "question": "Find x from the system of equations: 2x + y = 0 x - y = 6",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "8",
+      "D": "1",
+      "E": "3"
+    },
+    "correct": "B",
+    "solution": [
+      "Add the equations: 3x = 6",
+      "x = 2"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2025 · 13 April (book: Ch.10 No.15)"
+  },
+  {
+    "day": 2,
+    "n": 6,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Factorization",
+    "question": "Factor the polynomial 5ax² - 20a.",
+    "options": {
+      "A": "5(ax-4)(x+2)",
+      "B": "5a(x+4)(x-2)",
+      "C": "a(5x+4)(x-5)",
+      "D": "a(5x-20)(x+1)",
+      "E": "5a(x-2)(x+2)"
+    },
+    "correct": "E",
+    "solution": [
+      "Common factor: 5ax² - 20a = 5a(x² - 4)",
+      "Difference of squares: x² - 4 = (x - 2)(x + 2)",
+      "5a(x - 2)(x + 2)"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2024 · 17 March (book: Ch.6 No.14)"
+  },
+  {
+    "day": 2,
+    "n": 7,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Circles",
+    "question": "Chords AC and BD of the circle intersect at point O. OD = 6, CD = 3 and AO = 10. Find x = AB.",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "6",
+      "E": "7"
+    },
+    "correct": "A",
+    "solution": [
+      "∠BAC = ∠BDC (inscribed, same arc BC)",
+      "∠AOB = ∠DOC (vertical angles)",
+      "△AOB ∼ △DOC: AB/DC = AO/DO",
+      "x/3 = 10/6 ⇒ x = 5"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 17 April (book: Ch.16 No.12)"
+  },
+  {
+    "day": 2,
+    "n": 8,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Rectangle",
+    "question": "ABCD is a rectangle, K lies on BC, AK ⊥ KD, AK = 4 and ∠KDA = 30°. Find BK.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "correct": "A",
+    "solution": [
+      "In △AKD: ∠KAD = 90° - 30° = 60°",
+      "BC ∥ AD → ∠BKA = ∠KAD = 60°",
+      "Right △ABK: BK = AK · cos 60° = 4 · 1/2 = 2"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 1 May (book: Ch.18 No.21)"
+  },
+  {
+    "day": 3,
+    "n": 1,
+    "exam": "SAT",
+    "domain": "Algebra",
+    "topic": "Linear inequalities",
+    "question": "Which of the following values of x satisfies the inequality 3x - 5 > 2x + 4 ?",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "correct": "D",
+    "solution": [
+      "Subtract 2x from both sides: x - 5 > 4",
+      "x > 9",
+      "Only 10 is greater than 9 (9 itself fails: 22 > 22 is false)"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 3,
+    "n": 2,
+    "exam": "SAT",
+    "domain": "Advanced Math",
+    "topic": "Exponential functions",
+    "question": "A population of 500 bacteria doubles every 3 hours. Which function gives the population P after t hours?",
+    "options": {
+      "A": "P = 500(2)^(3t)",
+      "B": "P = 500(3)^(t/2)",
+      "C": "P = 500(2)^(t/3)",
+      "D": "P = 1000t"
+    },
+    "correct": "C",
+    "solution": [
+      "Starting value 500 → coefficient 500",
+      "Doubles → base 2",
+      "Once every 3 hours → exponent t/3",
+      "P = 500(2)^(t/3)"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 3,
+    "n": 3,
+    "exam": "SAT",
+    "domain": "Geometry & Trigonometry",
+    "topic": "Volume",
+    "question": "A right circular cylinder has a radius of 3 and a volume of 72π. What is the height of the cylinder?",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "24"
+    },
+    "correct": "B",
+    "solution": [
+      "V = π r² h",
+      "72π = π · 9 · h",
+      "h = 72 : 9 = 8"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 3,
+    "n": 4,
+    "exam": "SAT",
+    "domain": "Problem-Solving & Data Analysis",
+    "topic": "Probability",
+    "question": "A bag contains 4 red, 6 blue and 10 green marbles. One marble is chosen at random. What is the probability that it is NOT green?",
+    "options": {
+      "A": "1/2",
+      "B": "1/5",
+      "C": "3/10",
+      "D": "2/3"
+    },
+    "correct": "A",
+    "solution": [
+      "Total: 4 + 6 + 10 = 20",
+      "Not green: 4 + 6 = 10",
+      "P = 10/20 = 1/2"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 3,
+    "n": 5,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Factorization",
+    "question": "Calculate the value of the expression (10² - 8²)/(18).",
+    "options": {
+      "A": "1",
+      "B": "18",
+      "C": "2",
+      "D": "8",
+      "E": "10"
+    },
+    "correct": "C",
+    "solution": [
+      "10² - 8² = (10 - 8)(10 + 8) = 2 · 18",
+      "(2 · 18)/(18) = 2"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2025 · 20 April (book: Ch.6 No.19)"
+  },
+  {
+    "day": 3,
+    "n": 6,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Percent",
+    "question": "The cultivated area of a farm increased from 30 hectares to 42 hectares. By what percent did the cultivated area increase?",
+    "options": {
+      "A": "35%",
+      "B": "40%",
+      "C": "30%",
+      "D": "32%",
+      "E": "20%"
+    },
+    "correct": "B",
+    "solution": [
+      "Increase: 42 - 30 = 12 ha",
+      "12/30 · 100% = 40%"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2026 · 5 April (book: Ch.3 No.36)"
+  },
+  {
+    "day": 3,
+    "n": 7,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Rectangle",
+    "question": "The diagonal of a rectangle is 2√13 cm and one side is 4 cm. Find the perimeter of the rectangle.",
+    "options": {
+      "A": "24 cm",
+      "B": "20 cm",
+      "C": "30 cm",
+      "D": "18 cm",
+      "E": "28 cm"
+    },
+    "correct": "B",
+    "solution": [
+      "d² = (2√13)² = 52",
+      "Other side: √52 - 16 = 6 cm",
+      "P = 2(4 + 6) = 20 cm"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 2 June (book: Ch.18 No.7)"
+  },
+  {
+    "day": 3,
+    "n": 8,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Rhombus",
+    "question": "Find the radius of the circle inscribed in a rhombus with diagonals 6 cm and 8 cm.",
+    "options": {
+      "A": "2.7 cm",
+      "B": "2.4 cm",
+      "C": "1.9 cm",
+      "D": "3.5 cm",
+      "E": "3.2 cm"
+    },
+    "correct": "B",
+    "solution": [
+      "Side: a = √3² + 4² = 5 cm",
+      "Area: S = (6 · 8)/(2) = 24 cm²",
+      "S = a · 2r: 24 = 5 · 2r",
+      "r = 2.4 cm"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 10 June (book: Ch.18 No.1)"
+  },
+  {
+    "day": 4,
+    "n": 1,
+    "exam": "SAT",
+    "domain": "Algebra",
+    "topic": "Linear functions",
+    "question": "A plumber charges a fixed fee plus an hourly rate. A 2-hour job costs 130 dollars and a 5-hour job costs 250 dollars. What is the fixed fee, in dollars?",
+    "options": {
+      "A": "40",
+      "B": "50",
+      "C": "60",
+      "D": "80"
+    },
+    "correct": "B",
+    "solution": [
+      "Hourly rate: (250 - 130)/(5 - 2) = 120/3 = 40",
+      "Fixed fee: 130 - 2 · 40 = 50",
+      "Check: 50 + 5 · 40 = 250"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 4,
+    "n": 2,
+    "exam": "SAT",
+    "domain": "Advanced Math",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to (x + 3)² - (x - 3)² ?",
+    "options": {
+      "A": "12x",
+      "B": "6x",
+      "C": "0",
+      "D": "18"
+    },
+    "correct": "A",
+    "solution": [
+      "(x + 3)² = x² + 6x + 9",
+      "(x - 3)² = x² - 6x + 9",
+      "Difference: 6x - (-6x) = 12x"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 4,
+    "n": 3,
+    "exam": "SAT",
+    "domain": "Geometry & Trigonometry",
+    "topic": "Similar triangles",
+    "question": "Triangle ABC is similar to triangle DEF, where A, B, C correspond to D, E, F. If AB = 6, DE = 15 and BC = 8, what is EF?",
+    "options": {
+      "A": "12",
+      "B": "18",
+      "C": "24",
+      "D": "20"
+    },
+    "correct": "D",
+    "solution": [
+      "Scale factor: DE/AB = 15/6 = 2.5",
+      "EF = 2.5 · BC = 2.5 · 8",
+      "EF = 20"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 4,
+    "n": 4,
+    "exam": "SAT",
+    "domain": "Problem-Solving & Data Analysis",
+    "topic": "Ratios",
+    "question": "In a class of 40 students, the ratio of boys to girls is 3 : 5. How many girls are in the class?",
+    "options": {
+      "A": "15",
+      "B": "24",
+      "C": "30",
+      "D": "25"
+    },
+    "correct": "D",
+    "solution": [
+      "Total parts: 3 + 5 = 8",
+      "One part: 40 : 8 = 5",
+      "Girls: 5 · 5 = 25"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 4,
+    "n": 5,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Systems of equations",
+    "question": "The sum of two numbers is 111 and their difference is 75. Find the numbers.",
+    "options": {
+      "A": "76 and 35",
+      "B": "93 and 18",
+      "C": "85 and 26",
+      "D": "65 and 46",
+      "E": "99 and 12"
+    },
+    "correct": "B",
+    "solution": [
+      "x + y = 111, x - y = 75",
+      "Add: 2x = 186 ⇒ x = 93",
+      "y = 111 - 93 = 18"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2023 · 30 April (book: Ch.10 No.12)"
+  },
+  {
+    "day": 4,
+    "n": 6,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Factorization",
+    "question": "Find the value of the expression (53² - 13²)/(40² - 26² + 66 · 56).",
+    "options": {
+      "A": "3/4",
+      "B": "1",
+      "C": "4/7",
+      "D": "2/7",
+      "E": "3/7"
+    },
+    "correct": "C",
+    "solution": [
+      "53² - 13² = 40 · 66",
+      "40² - 26² = 14 · 66",
+      "Denominator: 14 · 66 + 56 · 66 = 70 · 66",
+      "(40 · 66)/(70 · 66) = 4/7"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2024 · 7 April (book: Ch.6 No.15)"
+  },
+  {
+    "day": 4,
+    "n": 7,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Circles",
+    "question": "In a circle with center O, BC is a diameter. If ∠AOC = 124°, find ∠AOB.",
+    "options": {
+      "A": "56°",
+      "B": "62°",
+      "C": "64°",
+      "D": "46°",
+      "E": "66°"
+    },
+    "correct": "A",
+    "solution": [
+      "BC is a diameter → ∠AOB and ∠AOC are adjacent",
+      "∠AOB + ∠AOC = 180°",
+      "∠AOB = 180° - 124° = 56°"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 17 June (book: Ch.16 No.8)"
+  },
+  {
+    "day": 4,
+    "n": 8,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Rectangle",
+    "question": "The diagonal of a rectangle is 30 cm and its length is 24 cm. Find its width.",
+    "options": {
+      "A": "14 cm",
+      "B": "16 cm",
+      "C": "18 cm",
+      "D": "10 cm",
+      "E": "15 cm"
+    },
+    "correct": "C",
+    "solution": [
+      "w = √30² - 24²",
+      "= √900 - 576 = √324 = 18 cm"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2023 · 16 April (book: Ch.18 No.25)"
+  },
+  {
+    "day": 5,
+    "n": 1,
+    "exam": "SAT",
+    "domain": "Algebra",
+    "topic": "Systems of equations",
+    "question": "For what value of k does the system 2x + 3y = 7 and 4x + ky = 10 have no solution?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "B",
+    "solution": [
+      "No solution → parallel lines (same slope)",
+      "4/2 = k/3 but 10/7 ≠ 2",
+      "k = 6"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 5,
+    "n": 2,
+    "exam": "SAT",
+    "domain": "Advanced Math",
+    "topic": "Polynomials",
+    "question": "p(x) = x³ - 4x² + kx - 6, where k is a constant. If p(2) = 0, what is the value of k?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "9",
+      "D": "7"
+    },
+    "correct": "D",
+    "solution": [
+      "p(2) = 8 - 16 + 2k - 6 = 0",
+      "2k - 14 = 0",
+      "k = 7"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 5,
+    "n": 3,
+    "exam": "SAT",
+    "domain": "Geometry & Trigonometry",
+    "topic": "Circles (arc length)",
+    "question": "A circle has radius 10. What is the length of an arc intercepted by a central angle of 72°?",
+    "options": {
+      "A": "4π",
+      "B": "2π",
+      "C": "8π",
+      "D": "20π"
+    },
+    "correct": "A",
+    "solution": [
+      "Arc length = 72/360 · 2π r",
+      "= 1/5 · 20π",
+      "= 4π"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 5,
+    "n": 4,
+    "exam": "SAT",
+    "domain": "Problem-Solving & Data Analysis",
+    "topic": "Rates and units",
+    "question": "A car travels 150 miles on 6 gallons of fuel. At this rate, how many gallons are needed to travel 400 miles?",
+    "options": {
+      "A": "12",
+      "B": "16",
+      "C": "14",
+      "D": "18"
+    },
+    "correct": "B",
+    "solution": [
+      "Rate: 150 : 6 = 25 miles per gallon",
+      "400 : 25 = 16 gallons"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 5,
+    "n": 5,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Fractions",
+    "question": "Calculate the value of the expression (12 3/4 · 2 - 30) : (-3/4)².",
+    "options": {
+      "A": "4",
+      "B": "16",
+      "C": "-16",
+      "D": "-4",
+      "E": "-8"
+    },
+    "correct": "E",
+    "solution": [
+      "12 3/4 · 2 = 51/4 · 2 = 25.5",
+      "25.5 - 30 = -4.5",
+      "(-3/4)² = 9/16",
+      "-9/2 · 16/9 = -8"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2026 · 12 April (book: Ch.2 No.19)"
+  },
+  {
+    "day": 5,
+    "n": 6,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Fractions",
+    "question": "Find the value of the expression (2 1/3 - 1 1/9) : 7 1/3 + 3/4.",
+    "options": {
+      "A": "5/12",
+      "B": "1 1/6",
+      "C": "1 5/6",
+      "D": "1 11/12",
+      "E": "11/12"
+    },
+    "correct": "E",
+    "solution": [
+      "2 1/3 - 1 1/9 = 21/9 - 10/9 = 11/9",
+      "11/9 : 7 1/3 = 11/9 · 3/22 = 1/6",
+      "1/6 + 3/4 = 2/12 + 9/12 = 11/12"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2025 · 27 April (book: Ch.2 No.17)"
+  },
+  {
+    "day": 5,
+    "n": 7,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Trapezoid",
+    "question": "The height drawn from the vertex of the obtuse angle of an isosceles trapezoid divides the larger base into parts of 3 cm and 7 cm. Find the midline.",
+    "options": {
+      "A": "4 cm",
+      "B": "5 cm",
+      "C": "7 cm",
+      "D": "3 cm",
+      "E": "8 cm"
+    },
+    "correct": "C",
+    "solution": [
+      "Larger base: 3 + 7 = 10; the small part = (a - b) : 2 = 3",
+      "Smaller base: b = 10 - 2 · 3 = 4",
+      "Midline: (10 + 4) : 2 = 7 cm"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 16 June (book: Ch.18 No.9)"
+  },
+  {
+    "day": 5,
+    "n": 8,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Rhombus",
+    "question": "The area of a rhombus is 100 cm² and one diagonal is twice the other. Find the longer diagonal.",
+    "options": {
+      "A": "20 cm",
+      "B": "30 cm",
+      "C": "10 cm",
+      "D": "40 cm",
+      "E": "70 cm"
+    },
+    "correct": "A",
+    "solution": [
+      "Let d_1 = x, d_2 = 2x",
+      "S = (x · 2x)/(2) = x² = 100",
+      "x = 10; longer diagonal = 20 cm"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2023 · 16 April (book: Ch.18 No.24)"
+  },
+  {
+    "day": 6,
+    "n": 1,
+    "exam": "SAT",
+    "domain": "Algebra",
+    "topic": "Linear functions",
+    "question": "The function f is defined by f(x) = 3x - 4. What is the value of f(5) - f(2)?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "11"
+    },
+    "correct": "C",
+    "solution": [
+      "f(5) = 15 - 4 = 11",
+      "f(2) = 6 - 4 = 2",
+      "f(5) - f(2) = 11 - 2 = 9"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 6,
+    "n": 2,
+    "exam": "SAT",
+    "domain": "Advanced Math",
+    "topic": "Nonlinear systems",
+    "question": "The graphs of y = x² - 4 and y = 2x - 1 intersect at two points. What is the sum of the x-coordinates of these points?",
+    "options": {
+      "A": "-2",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B",
+    "solution": [
+      "x² - 4 = 2x - 1",
+      "x² - 2x - 3 = 0 ⇒ (x - 3)(x + 1) = 0",
+      "x = 3, x = -1; sum = 2"
+    ],
+    "desmos_used": true,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 6,
+    "n": 3,
+    "exam": "SAT",
+    "domain": "Geometry & Trigonometry",
+    "topic": "Trigonometric ratios",
+    "question": "If sin(x°) = cos(30°) and 0 < x < 90, what is the value of x?",
+    "options": {
+      "A": "30",
+      "B": "45",
+      "C": "60",
+      "D": "90"
+    },
+    "correct": "C",
+    "solution": [
+      "Complementary angles: sin(x°) = cos(90° - x°)",
+      "90 - x = 30",
+      "x = 60"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 6,
+    "n": 4,
+    "exam": "SAT",
+    "domain": "Problem-Solving & Data Analysis",
+    "topic": "Statistics (median)",
+    "question": "What is the median of the data set 4, 8, 15, 16, 23, 42 ?",
+    "options": {
+      "A": "15",
+      "B": "15.5",
+      "C": "16",
+      "D": "18"
+    },
+    "correct": "B",
+    "solution": [
+      "6 values (even) → median = mean of 3rd and 4th",
+      "(15 + 16)/(2) = 15.5"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 6,
+    "n": 5,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Square roots",
+    "question": "Calculate the value of the expression 2√25 - √16 + 2√9.",
+    "options": {
+      "A": "10",
+      "B": "14",
+      "C": "12",
+      "D": "5",
+      "E": "2"
+    },
+    "correct": "C",
+    "solution": [
+      "√25 = 5, √16 = 4, √9 = 3",
+      "2 · 5 - 4 + 2 · 3 = 10 - 4 + 6 = 12"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2026 · 5 April (book: Ch.8 No.28)"
+  },
+  {
+    "day": 6,
+    "n": 6,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Ratio",
+    "question": "The number 180 is divided in the ratio 1 : 2 : 3. Find the parts.",
+    "options": {
+      "A": "80, 20, 80",
+      "B": "20, 40, 120",
+      "C": "50, 60, 70",
+      "D": "20, 50, 110",
+      "E": "30, 60, 90"
+    },
+    "correct": "E",
+    "solution": [
+      "Total parts: 1 + 2 + 3 = 6",
+      "One part: 180 : 6 = 30",
+      "Parts: 30, 60, 90"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2026 · 12 April (book: Ch.3 No.40)"
+  },
+  {
+    "day": 6,
+    "n": 7,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Circles",
+    "question": "AB is tangent to the circle at point A, AB = 6 and BM = 9. Find BC.",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "E": "8"
+    },
+    "correct": "A",
+    "solution": [
+      "Tangent–secant theorem: AB² = BC · BM",
+      "36 = BC · 9",
+      "BC = 4"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 23 April (book: Ch.16 No.13)"
+  },
+  {
+    "day": 6,
+    "n": 8,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Circles",
+    "question": "Chords AK and CD intersect at point B. Given AB = 2.5, BC = 2 and BD = 5, find BK.",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "2",
+      "D": "4",
+      "E": "5"
+    },
+    "correct": "D",
+    "solution": [
+      "Intersecting chords: AB · BK = CB · BD",
+      "2.5 · BK = 2 · 5 = 10",
+      "BK = 4"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 16 April (book: Ch.16 No.10)"
+  },
+  {
+    "day": 7,
+    "n": 1,
+    "exam": "SAT",
+    "domain": "Algebra",
+    "topic": "Linear equations",
+    "question": "A line passes through the points (2, 5) and (6, 13). What is the y-intercept of the line?",
+    "options": {
+      "A": "-1",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "B",
+    "solution": [
+      "Slope: m = (13 - 5)/(6 - 2) = 8/4 = 2",
+      "y = 2x + b; use (2, 5): 5 = 4 + b",
+      "b = 1"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 7,
+    "n": 2,
+    "exam": "SAT",
+    "domain": "Advanced Math",
+    "topic": "Exponential equations",
+    "question": "If 2^(x + 1) = 32, what is the value of x?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "A",
+    "solution": [
+      "32 = 2⁵",
+      "2^(x+1) = 2⁵ ⇒ x + 1 = 5",
+      "x = 4"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 7,
+    "n": 3,
+    "exam": "SAT",
+    "domain": "Geometry & Trigonometry",
+    "topic": "Angles",
+    "question": "Two parallel lines are cut by a transversal. Two corresponding angles measure (3x + 10)° and (5x - 30)°. What is the value of x?",
+    "options": {
+      "A": "10",
+      "B": "20",
+      "C": "30",
+      "D": "40"
+    },
+    "correct": "B",
+    "solution": [
+      "Corresponding angles are equal",
+      "3x + 10 = 5x - 30",
+      "2x = 40 ⇒ x = 20"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 7,
+    "n": 4,
+    "exam": "SAT",
+    "domain": "Problem-Solving & Data Analysis",
+    "topic": "Percent change",
+    "question": "The price of a book increased from 80 dollars to 92 dollars. By what percent did the price increase?",
+    "options": {
+      "A": "12%",
+      "B": "13%",
+      "C": "15%",
+      "D": "18%"
+    },
+    "correct": "C",
+    "solution": [
+      "Increase: 92 - 80 = 12",
+      "12/80 · 100% = 15%"
+    ],
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 7,
+    "n": 5,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Fractions",
+    "question": "If a/12 is a proper fraction and a is a natural number, find the greatest possible value of a.",
+    "options": {
+      "A": "5",
+      "B": "11",
+      "C": "12",
+      "D": "1",
+      "E": "13"
+    },
+    "correct": "B",
+    "solution": [
+      "Proper fraction: numerator < denominator",
+      "a < 12, a is a natural number",
+      "Greatest value: a = 11"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 1 May (book: Ch.2 No.12)"
+  },
+  {
+    "day": 7,
+    "n": 6,
+    "exam": "DİM",
+    "domain": "Algebra",
+    "topic": "Percent",
+    "question": "21 kg of copper was obtained from 1 t of chalcopyrite ore containing 2.5% copper. What percent of the copper was lost?",
+    "options": {
+      "A": "15",
+      "B": "12",
+      "C": "16",
+      "D": "18",
+      "E": "10"
+    },
+    "correct": "C",
+    "solution": [
+      "1 t = 1000 kg; copper in ore: 1000 · 0.025 = 25 kg",
+      "Lost: 25 - 21 = 4 kg",
+      "4/25 · 100% = 16%"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2026 · 12 April (book: Ch.3 No.39)"
+  },
+  {
+    "day": 7,
+    "n": 7,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Polygons",
+    "question": "A convex polygon has 20 diagonals. Find the number of its sides.",
+    "options": {
+      "A": "14",
+      "B": "16",
+      "C": "8",
+      "D": "10",
+      "E": "6"
+    },
+    "correct": "C",
+    "solution": [
+      "Number of diagonals: (n(n - 3))/(2) = 20",
+      "n(n - 3) = 40",
+      "n = 8 (since 8 · 5 = 40)"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2023 · 30 April (book: Ch.18 No.27)"
+  },
+  {
+    "day": 7,
+    "n": 8,
+    "exam": "DİM",
+    "domain": "Geometry",
+    "topic": "Rhombus",
+    "question": "Find the measure of the acute angle of a rhombus whose diagonals are 4 cm and 4√3 cm.",
+    "options": {
+      "A": "30°",
+      "B": "45°",
+      "C": "60°",
+      "D": "50°",
+      "E": "70°"
+    },
+    "correct": "C",
+    "solution": [
+      "Half-diagonals: 2 and 2√3 (at right angle)",
+      "Side: √2² + (2\\sqrt{3)²} = 4",
+      "Leg 2 = half of side 4 → opposite angle 30°",
+      "Acute angle: 2 · 30° = 60°"
+    ],
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 18 June (book: Ch.18 No.5)"
+  }
+]

@@ -1,15 +1,6 @@
 {
-  "day": 8,
-  "done": [
-    "am1",
-    "am2",
-    "am3",
-    "am4",
-    "am5",
-    "am6",
-    "am7",
-    "am8"
-  ],
+  "day": 9,
+  "done": [],
   "log": [
     "day 1 completed 2026-11-11",
     "day 2 completed 2026-11-12",
@@ -17,7 +8,8 @@
     "day 4 completed 2026-11-14",
     "day 5 completed 2026-11-15",
     "day 6 completed 2026-11-16",
-    "day 7 completed 2026-11-17"
+    "day 7 completed 2026-11-17",
+    "day 8 completed 2026-11-18"
   ],
   "warned_at_day": 8
 }

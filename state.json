@@ -1,6 +1,9 @@
 {
   "day": 13,
-  "done": [],
+  "done": [
+    "am1",
+    "am2"
+  ],
   "log": [
     "day 1 completed 2026-11-11",
     "day 2 completed 2026-11-12",

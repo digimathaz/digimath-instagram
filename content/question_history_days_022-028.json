@@ -1,0 +1,926 @@
+[
+  {
+    "day": 22,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Linear equations",
+    "question": "If 7x + 4 = 3x - 12, what is the value of x?",
+    "options": {
+      "A": "-4",
+      "B": "-2",
+      "C": "2",
+      "D": "4"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 22,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Quadratic equations",
+    "question": "What is the larger solution of the equation x² - 10x + 21 = 0 ?",
+    "options": {
+      "A": "3",
+      "B": "7",
+      "C": "10",
+      "D": "21"
+    },
+    "correct": "B",
+    "desmos_used": true,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 22,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Triangles (exterior angle)",
+    "question": "Two interior angles of a triangle measure 45° and 70°. What is the measure of the exterior angle at the third vertex?",
+    "options": {
+      "A": "65°",
+      "B": "105°",
+      "C": "115°",
+      "D": "135°"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 22,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Percentages",
+    "question": "What is 40% of 65?",
+    "options": {
+      "A": "16",
+      "B": "24",
+      "C": "26",
+      "D": "30"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 22,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Integers",
+    "question": "How many integers lie between -3.8 and 4.82?",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "8",
+      "D": "6",
+      "E": "10"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2024 · 21 April (book: Ch.4 No.12)"
+  },
+  {
+    "day": 22,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Inequalities",
+    "question": "If -3 ≤ x ≤ 7 and 2 ≤ y ≤ 5, find the maximum value of |x - y|.",
+    "options": {
+      "A": "9",
+      "B": "7",
+      "C": "6",
+      "D": "8",
+      "E": "10"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 18 June (book: Ch.11 No.3)"
+  },
+  {
+    "day": 22,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Cube",
+    "question": "If the edge of a cube is doubled, how many times does its volume increase?",
+    "options": {
+      "A": "8 times",
+      "B": "4 times",
+      "C": "12 times",
+      "D": "2 times",
+      "E": "6 times"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2025 · 13 April (book: Ch.22 No.16)"
+  },
+  {
+    "day": 22,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Rhombus",
+    "question": "Find the side of a rhombus whose area is 108 cm² and whose diagonals are in the ratio 2 : 3.",
+    "options": {
+      "A": "√157",
+      "B": "√147",
+      "C": "√107",
+      "D": "√137",
+      "E": "√117"
+    },
+    "correct": "E",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 17 June (book: Ch.18 No.12)"
+  },
+  {
+    "day": 23,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Linear inequalities",
+    "question": "Which of the following is NOT a solution to the inequality -3x + 7 \\geq 1 ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 23,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Exponential functions",
+    "question": "A patient takes 400 mg of a medicine. The amount in the body halves every 6 hours. How many milligrams remain after 18 hours?",
+    "options": {
+      "A": "50",
+      "B": "100",
+      "C": "200",
+      "D": "25"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 23,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Special right triangles",
+    "question": "An isosceles right triangle has legs of length 7. What is the length of the hypotenuse?",
+    "options": {
+      "A": "7√2",
+      "B": "14",
+      "C": "7√3",
+      "D": "49"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 23,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Statistics (mean)",
+    "question": "The mean of 6 numbers is 15. When one number is removed, the mean of the remaining numbers is 14. What number was removed?",
+    "options": {
+      "A": "14",
+      "B": "20",
+      "C": "15",
+      "D": "24"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 23,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Probability",
+    "question": "Among the improper fractions with numerator 24 (and natural denominator), one is chosen at random. Find the probability that it is equal to a natural number.",
+    "options": {
+      "A": "1/6",
+      "B": "1/8",
+      "C": "1/3",
+      "D": "1/4",
+      "E": "1/2"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 10 June (book: Ch.14 No.1)"
+  },
+  {
+    "day": 23,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Inequalities",
+    "question": "Find the greatest integer that satisfies the inequality x/4 < -4.",
+    "options": {
+      "A": "-17",
+      "B": "-14",
+      "C": "-16",
+      "D": "-15",
+      "E": "-18"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 2 June (book: Ch.11 No.4)"
+  },
+  {
+    "day": 23,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Triangles",
+    "question": "The sides of a triangle are 16 cm, 18 cm and 20 cm. Find the perimeter of the triangle whose vertices are the midpoints of the sides of the given triangle.",
+    "options": {
+      "A": "27 cm",
+      "B": "12 cm",
+      "C": "31 cm",
+      "D": "26 cm",
+      "E": "24 cm"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2026 · 12 April (book: Ch.17 No.31)"
+  },
+  {
+    "day": 23,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Circle equation",
+    "question": "Find the points of intersection of the circle x² + (y - 5)² = 144 with the y-axis.",
+    "options": {
+      "A": "(0; -12), (0; 7)",
+      "B": "(17; 0), (-7; 0)",
+      "C": "(0; 17), (0; -7)",
+      "D": "(0; 5), (0; -5)",
+      "E": "(0; 12), (0; -12)"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2023 · 16 April (book: Ch.21 No.8)"
+  },
+  {
+    "day": 24,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Systems of equations",
+    "question": "If 3x + 2y = 16 and x + 2y = 8, what is the value of x + y?",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    },
+    "correct": "B",
+    "desmos_used": true,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 24,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to (x + 5)² ?",
+    "options": {
+      "A": "x² + 25",
+      "B": "x² + 5x + 25",
+      "C": "x² + 10x + 25",
+      "D": "x² + 10x + 10"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 24,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Circles (arc length)",
+    "question": "A circle has a radius of 9. What is the length of an arc intercepted by a central angle of 120°?",
+    "options": {
+      "A": "3π",
+      "B": "6π",
+      "C": "9π",
+      "D": "27π"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 24,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Probability",
+    "question": "Two fair coins are tossed. What is the probability that both land heads?",
+    "options": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "1/3",
+      "D": "3/4"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 24,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Systems of equations",
+    "question": "For what value of a does the system have infinitely many solutions? 1.5x - 2y = 5 7.5x - 10y = a",
+    "options": {
+      "A": "15",
+      "B": "25",
+      "C": "10",
+      "D": "20",
+      "E": "30"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 17 June (book: Ch.10 No.5)"
+  },
+  {
+    "day": 24,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Systems of equations",
+    "question": "How many solutions does the system have? x² + y² = 100 (x - 6)(y - 8) = 0",
+    "options": {
+      "A": "1",
+      "B": "5",
+      "C": "4",
+      "D": "2",
+      "E": "3"
+    },
+    "correct": "E",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 18 June (book: Ch.10 No.2)"
+  },
+  {
+    "day": 24,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Coordinates",
+    "question": "Points A(6; 2) and B(a; -3) lie on a line parallel to the y-axis. Find a.",
+    "options": {
+      "A": "6",
+      "B": "-3",
+      "C": "-6",
+      "D": "-2",
+      "E": "0"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2023 · 30 April (book: Ch.21 No.9)"
+  },
+  {
+    "day": 24,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Polygons",
+    "question": "Find the number of sides of a convex polygon whose interior angles sum to 1980°.",
+    "options": {
+      "A": "13",
+      "B": "20",
+      "C": "25",
+      "D": "17",
+      "E": "22"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 24 April (book: Ch.18 No.19)"
+  },
+  {
+    "day": 25,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Linear functions (slope)",
+    "question": "What is the slope of the line that passes through the points (-1, 3) and (3, 11)?",
+    "options": {
+      "A": "1/2",
+      "B": "2",
+      "C": "-2",
+      "D": "4"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 25,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Quadratics (discriminant)",
+    "question": "For what value of k does the equation x² + 6x + k = 0 have exactly one real solution?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "36",
+      "D": "9"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 25,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Trigonometric ratios",
+    "question": "In right triangle ABC, angle C is a right angle, BC = 8 and AC = 15. What is the value of tan A?",
+    "options": {
+      "A": "8/17",
+      "B": "15/17",
+      "C": "8/15",
+      "D": "15/8"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 25,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Rates",
+    "question": "A car travels 210 miles in 3.5 hours. What is its average speed, in miles per hour?",
+    "options": {
+      "A": "55",
+      "B": "65",
+      "C": "70",
+      "D": "60"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 25,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Systems of equations",
+    "question": "From the system, find the product xy: 2x - y = 7 2x + y = 13",
+    "options": {
+      "A": "18",
+      "B": "15",
+      "C": "24",
+      "D": "21",
+      "E": "28"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 10 June (book: Ch.10 No.1)"
+  },
+  {
+    "day": 25,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Real numbers",
+    "question": "Find the value of (56 · (-15))/(14 · (-30)).",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "1",
+      "E": "0.5"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 16 June (book: Ch.4 No.5)"
+  },
+  {
+    "day": 25,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Rectangle",
+    "question": "In rectangle ABCD, BC = 12 cm and AC = 13 cm. Find AB.",
+    "options": {
+      "A": "8 cm",
+      "B": "5 cm",
+      "C": "9 cm",
+      "D": "10 cm",
+      "E": "3 cm"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 16 April (book: Ch.18 No.13)"
+  },
+  {
+    "day": 25,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Cube",
+    "question": "The edge of a cube is increased by 1. As a result, its volume increases by 19 units. Find the edge of the cube.",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "7",
+      "D": "6",
+      "E": "2"
+    },
+    "correct": "E",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2025 · 20 April (book: Ch.22 No.17)"
+  },
+  {
+    "day": 26,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Linear functions",
+    "question": "A taxi charges 3 dollars plus 2.50 dollars per mile. A ride cost 23 dollars. How many miles long was the ride?",
+    "options": {
+      "A": "6",
+      "B": "9",
+      "C": "8",
+      "D": "10"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 26,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Quadratic functions",
+    "question": "The function f is defined by f(x) = (x - 3)(x + 5). What is the sum of the x-intercepts of the graph of f?",
+    "options": {
+      "A": "-2",
+      "B": "2",
+      "C": "-8",
+      "D": "15"
+    },
+    "correct": "A",
+    "desmos_used": true,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 26,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "3D geometry",
+    "question": "A rectangular box measures 3 by 4 by 12. What is the length of the longest diagonal of the box?",
+    "options": {
+      "A": "12",
+      "B": "19",
+      "C": "169",
+      "D": "13"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 26,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Percent change",
+    "question": "The number of students in a club grew from 40 to 50. By what percent did the number of students increase?",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "25%",
+      "D": "80%"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 26,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Probability",
+    "question": "One number is chosen from the first 10 natural numbers. Find the probability that the chosen number is prime.",
+    "options": {
+      "A": "3/10",
+      "B": "2/5",
+      "C": "3/5",
+      "D": "4/5",
+      "E": "2/3"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 17 June (book: Ch.14 No.7)"
+  },
+  {
+    "day": 26,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Systems of equations",
+    "question": "The sum of two numbers is 131 and their difference is 45. Find the smaller number.",
+    "options": {
+      "A": "61",
+      "B": "46",
+      "C": "56",
+      "D": "53",
+      "E": "43"
+    },
+    "correct": "E",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 16 June (book: Ch.10 No.4)"
+  },
+  {
+    "day": 26,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Rectangle",
+    "question": "In rectangle ABCD, the diagonals intersect at point O. If ∠BOA = 50°, find ∠BAO.",
+    "options": {
+      "A": "80°",
+      "B": "65°",
+      "C": "45°",
+      "D": "10°",
+      "E": "30°"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 17 April (book: Ch.18 No.15)"
+  },
+  {
+    "day": 26,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Coordinates",
+    "question": "Among the points A(2; -5), B(3; -6), C(9; 8), D(-2; 4), E(-4; -7), how many lie below the x-axis?",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "5",
+      "D": "1",
+      "E": "3"
+    },
+    "correct": "E",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 10 June (book: Ch.21 No.1)"
+  },
+  {
+    "day": 27,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Perpendicular lines",
+    "question": "Line k is perpendicular to the line y = 4x - 1. What is the slope of line k?",
+    "options": {
+      "A": "4",
+      "B": "-4",
+      "C": "1/4",
+      "D": "-1/4"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 27,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Radicals",
+    "question": "Which expression is equivalent to √50 + √18 ?",
+    "options": {
+      "A": "√68",
+      "B": "8√2",
+      "C": "4√2",
+      "D": "15√2"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 27,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Area",
+    "question": "A trapezoid has bases of length 6 and 10 and a height of 5. What is its area?",
+    "options": {
+      "A": "30",
+      "B": "40",
+      "C": "80",
+      "D": "300"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 27,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Statistics (mode)",
+    "question": "What is the mode of the data set 4, 7, 7, 9, 2, 7, 4 ?",
+    "options": {
+      "A": "7",
+      "B": "4",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 27,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Systems of equations",
+    "question": "Solve the system and find y: x² + 2xy + 3y² = 17 x + y = 3",
+    "options": {
+      "A": "±2",
+      "B": "2",
+      "C": "-5",
+      "D": "±3",
+      "E": "±1"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 17 April (book: Ch.10 No.7)"
+  },
+  {
+    "day": 27,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Number line",
+    "question": "Find five times the distance between the points A(-2.8) and B(-5.9) on the number line.",
+    "options": {
+      "A": "21.8",
+      "B": "15.5",
+      "C": "1.5",
+      "D": "20.5",
+      "E": "22.5"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 9 June (book: Ch.4 No.3)"
+  },
+  {
+    "day": 27,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Rectangle",
+    "question": "The width of a rectangle is 5 times smaller than its length, and its perimeter is 240 cm. Find the length of the rectangle.",
+    "options": {
+      "A": "120 cm",
+      "B": "90 cm",
+      "C": "60 cm",
+      "D": "80 cm",
+      "E": "100 cm"
+    },
+    "correct": "E",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 17 June (book: Ch.18 No.11)"
+  },
+  {
+    "day": 27,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Circle equation",
+    "question": "Write the equation of the circle with center M(1; 5) passing through the point A(-3; 4).",
+    "options": {
+      "A": "(x-1)²+(y-5)²=17",
+      "B": "(x+1)²+(y+5)²=25",
+      "C": "(x-1)²+(y-5)²=25",
+      "D": "(x+1)²+(y+5)²=25",
+      "E": "(x-1)²+(y+5)²=21"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 18 June (book: Ch.21 No.2)"
+  },
+  {
+    "day": 28,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Systems (word problem)",
+    "question": "A jar has 20 coins, all nickels (5 cents) and dimes (10 cents). The total value is 140 cents. How many dimes are in the jar?",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 28,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Exponential functions",
+    "question": "The function g is defined by g(x) = 3^x. What is the value of (g(4))/(g(2)) ?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "27"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 28,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Similar triangles",
+    "question": "A 2-meter pole casts a 3-meter shadow. At the same time, a tree casts a 15-meter shadow. How tall is the tree, in meters?",
+    "options": {
+      "A": "10",
+      "B": "22.5",
+      "C": "12",
+      "D": "9"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 28,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Sampling",
+    "question": "In a random sample of 200 students, 30 chose chess as their favorite game. The school has 1,800 students. Based on the sample, about how many prefer chess?",
+    "options": {
+      "A": "30",
+      "B": "180",
+      "C": "600",
+      "D": "270"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 28,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Number line",
+    "question": "Between which two consecutive integers does the number -4 2/3 lie on the number line?",
+    "options": {
+      "A": "-2 and -1",
+      "B": "-6 and -5",
+      "C": "-5 and -4",
+      "D": "-3 and -2",
+      "E": "-4 and -3"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2024 · 17 March (book: Ch.4 No.10)"
+  },
+  {
+    "day": 28,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Real numbers",
+    "question": "Find the value of the expression -3.6 : 0.6 + 2.4 · 0.5.",
+    "options": {
+      "A": "-4",
+      "B": "3.2",
+      "C": "-4.8",
+      "D": "1.6",
+      "E": "2.4"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2023 · 30 April (book: Ch.4 No.9)"
+  },
+  {
+    "day": 28,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Rhombus",
+    "question": "The area of a rhombus is 64 cm². One diagonal is 2 times longer than the other. Find the smaller diagonal.",
+    "options": {
+      "A": "25 cm",
+      "B": "6 cm",
+      "C": "20 cm",
+      "D": "12 cm",
+      "E": "8 cm"
+    },
+    "correct": "E",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 17 April (book: Ch.18 No.14)"
+  },
+  {
+    "day": 28,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Triangles",
+    "question": "A point is located 4 cm away from a straight line. From this point, two segments of length 5 cm are drawn to the line. Find the distance between the endpoints of these segments.",
+    "options": {
+      "A": "6 cm",
+      "B": "3 cm",
+      "C": "9 cm",
+      "D": "10 cm",
+      "E": "4 cm"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2026 · 5 April (book: Ch.17 No.30)"
+  }
+]

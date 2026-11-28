@@ -1,0 +1,926 @@
+[
+  {
+    "day": 15,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Linear equations",
+    "question": "If 3(x + 2) = 2x + 11, what is the value of x?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 15,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Quadratic equations",
+    "question": "What is the positive solution of the equation x² + 4x - 21 = 0 ?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "7",
+      "D": "21"
+    },
+    "correct": "A",
+    "desmos_used": true,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 15,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Angles",
+    "question": "Two angles form a linear pair. One angle is 4 times the other. What is the measure of the smaller angle?",
+    "options": {
+      "A": "18°",
+      "B": "36°",
+      "C": "45°",
+      "D": "144°"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 15,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Percentages",
+    "question": "18 is what percent of 72?",
+    "options": {
+      "A": "18%",
+      "B": "25%",
+      "C": "40%",
+      "D": "54%"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 15,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Proportion",
+    "question": "Find x if x/5 = 21/15.",
+    "options": {
+      "A": "1/7",
+      "B": "7/25",
+      "C": "7",
+      "D": "25/7",
+      "E": "9"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2025 · 13 April (book: Ch.3 No.32)"
+  },
+  {
+    "day": 15,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Linear equations",
+    "question": "Solve the equation 5(3x - 4) + 2(x - 4) = 6.",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "6",
+      "D": "7",
+      "E": "3"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 23 April (book: Ch.9 No.18)"
+  },
+  {
+    "day": 15,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Triangles",
+    "question": "The sum of two interior angles of a triangle is 149°. Find the third angle.",
+    "options": {
+      "A": "21°",
+      "B": "31°",
+      "C": "41°",
+      "D": "11°",
+      "E": "51°"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 16 June (book: Ch.17 No.11)"
+  },
+  {
+    "day": 15,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Triangles",
+    "question": "Find the perimeter of the triangle formed by the midlines of an equilateral triangle with side 10 cm.",
+    "options": {
+      "A": "15 cm",
+      "B": "20 cm",
+      "C": "30 cm",
+      "D": "18 cm",
+      "E": "25 cm"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 10 June (book: Ch.17 No.1)"
+  },
+  {
+    "day": 16,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Linear equations (graphs)",
+    "question": "Which of the following points lies on the line y = 2x - 3 ?",
+    "options": {
+      "A": "(2, 2)",
+      "B": "(3, 4)",
+      "C": "(0, 3)",
+      "D": "(1, -1)"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 16,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to x² - 49 ?",
+    "options": {
+      "A": "(x - 7)²",
+      "B": "(x + 7)(x - 7)",
+      "C": "(x - 49)(x + 1)",
+      "D": "(x + 7)²"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 16,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Right triangles",
+    "question": "A rectangle has a length of 15 and a width of 8. What is the length of its diagonal?",
+    "options": {
+      "A": "17",
+      "B": "23",
+      "C": "19",
+      "D": "13"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 16,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Statistics (mean)",
+    "question": "A class of 10 students has a mean score of 80, and a class of 15 students has a mean score of 90. What is the mean score of all 25 students?",
+    "options": {
+      "A": "84",
+      "B": "85",
+      "C": "86",
+      "D": "88"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 16,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Equations",
+    "question": "Find the sum of the roots of the equation (x + 4)² = 36.",
+    "options": {
+      "A": "-8",
+      "B": "-12",
+      "C": "-2",
+      "D": "0",
+      "E": "4"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 18 June (book: Ch.9 No.3)"
+  },
+  {
+    "day": 16,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Word problems",
+    "question": "Two toys cost 35 manats in total. If one toy is 4 times cheaper than the other, find the price of the more expensive toy.",
+    "options": {
+      "A": "22",
+      "B": "26",
+      "C": "20",
+      "D": "24",
+      "E": "28"
+    },
+    "correct": "E",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 17 June (book: Ch.9 No.12)"
+  },
+  {
+    "day": 16,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Circles",
+    "question": "Find the diameter of a circle with radius 8 cm.",
+    "options": {
+      "A": "4 cm",
+      "B": "16 cm",
+      "C": "64 cm",
+      "D": "24 cm",
+      "E": "32 cm"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 10 June (book: Ch.16 No.2)"
+  },
+  {
+    "day": 16,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Volume",
+    "question": "Find the volume of a rectangular parallelepiped whose edges are 3, 3/2 and 3/5.",
+    "options": {
+      "A": "2.2",
+      "B": "2.3",
+      "C": "2.7",
+      "D": "2.1",
+      "E": "1.1"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 1 May (book: Ch.22 No.9)"
+  },
+  {
+    "day": 17,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Systems of equations",
+    "question": "If 2x + y = 11 and x - y = 1, what is the value of y?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "B",
+    "desmos_used": true,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 17,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Exponential functions",
+    "question": "A town has 1,200 residents. The population grows by 5% each year. Which expression gives the population after t years?",
+    "options": {
+      "A": "1200(0.05)^t",
+      "B": "1200(1.5)^t",
+      "C": "1200(1.05)^t",
+      "D": "1200 + 0.05t"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 17,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Circles (sector)",
+    "question": "A circle has a radius of 6. What is the area of a sector with a central angle of 60°?",
+    "options": {
+      "A": "2π",
+      "B": "12π",
+      "C": "6π",
+      "D": "36π"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 17,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Probability",
+    "question": "A bag contains 3 red marbles and 5 blue marbles. One marble is chosen at random. What is the probability that it is blue?",
+    "options": {
+      "A": "3/8",
+      "B": "3/5",
+      "C": "1/2",
+      "D": "5/8"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 17,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Fractions & percent",
+    "question": "30% of a job has been completed. What fraction of the job has not been completed?",
+    "options": {
+      "A": "7/10",
+      "B": "3/10",
+      "C": "5/10",
+      "D": "1/10",
+      "E": "2/10"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 1 May (book: Ch.3 No.19)"
+  },
+  {
+    "day": 17,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Motion problems",
+    "question": "A cyclist rides for 1.5 hours at 24 km/h. To return the same distance he rides at 18 km/h. How many hours does the return trip take?",
+    "options": {
+      "A": "2 2/3",
+      "B": "1 1/3",
+      "C": "2 1/3",
+      "D": "3",
+      "E": "2"
+    },
+    "correct": "E",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2025 · 20 April (book: Ch.3 No.33)"
+  },
+  {
+    "day": 17,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Angles",
+    "question": "What is half of a right angle?",
+    "options": {
+      "A": "60°",
+      "B": "40°",
+      "C": "30°",
+      "D": "45°",
+      "E": "35°"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 18 June (book: Ch.15 No.3)"
+  },
+  {
+    "day": 17,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Triangles",
+    "question": "One angle of a triangle is 70° and the second is 60°. Find the third angle.",
+    "options": {
+      "A": "80°",
+      "B": "70°",
+      "C": "60°",
+      "D": "40°",
+      "E": "50°"
+    },
+    "correct": "E",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 10 June (book: Ch.17 No.3)"
+  },
+  {
+    "day": 18,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Linear functions",
+    "question": "The function f is defined by f(x) = mx + 4, where m is a constant. If f(3) = 19, what is the value of m?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "5",
+      "D": "15"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 18,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Rational equations",
+    "question": "If (6)/(x - 1) = 3/2, what is the value of x?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "9",
+      "D": "5"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 18,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Special right triangles",
+    "question": "In a right triangle, the hypotenuse is 10 and one acute angle measures 30°. What is the length of the side opposite the 30° angle?",
+    "options": {
+      "A": "5√3",
+      "B": "10√3",
+      "C": "20",
+      "D": "5"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 18,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Ratios and proportions",
+    "question": "On a map, 1 centimeter represents 25 kilometers. Two cities are 7.2 centimeters apart on the map. What is the actual distance, in kilometers?",
+    "options": {
+      "A": "150",
+      "B": "175",
+      "C": "180",
+      "D": "200"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 18,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Linear equations",
+    "question": "Solve the equation 0.8y - 0.9 = 0.3y + 0.6.",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "4",
+      "D": "2",
+      "E": "1"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 9 June (book: Ch.9 No.8)"
+  },
+  {
+    "day": 18,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Equations",
+    "question": "Solve the equation (x + 3)\\left(2 - (1)/(x+3)\\right) = 0.",
+    "options": {
+      "A": "-2.5",
+      "B": "5",
+      "C": "-3.5",
+      "D": "1",
+      "E": "-3"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 16 April (book: Ch.9 No.13)"
+  },
+  {
+    "day": 18,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Triangles",
+    "question": "Two sides of a triangle are 7 cm and 9 cm, and its perimeter is 26 cm. Find the third side.",
+    "options": {
+      "A": "12 cm",
+      "B": "10 cm",
+      "C": "13 cm",
+      "D": "8 cm",
+      "E": "14 cm"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 10 June (book: Ch.17 No.5)"
+  },
+  {
+    "day": 18,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Segments",
+    "question": "Point C lies on segment AB of length 21 cm, and AC : CB = 2 : 1. Find the length of AC.",
+    "options": {
+      "A": "12 cm",
+      "B": "10 cm",
+      "C": "14 cm",
+      "D": "15 cm",
+      "E": "16 cm"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 18 June (book: Ch.15 No.2)"
+  },
+  {
+    "day": 19,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Linear inequalities",
+    "question": "A phone plan costs 30 dollars per month plus 0.10 dollar per text message. What is the greatest number of texts that keeps the monthly bill at most 45 dollars?",
+    "options": {
+      "A": "150",
+      "B": "100",
+      "C": "450",
+      "D": "15"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 19,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Quadratic functions",
+    "question": "What is the minimum value of the function f(x) = x² + 6x + 2 ?",
+    "options": {
+      "A": "-7",
+      "B": "-3",
+      "C": "2",
+      "D": "11"
+    },
+    "correct": "A",
+    "desmos_used": true,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 19,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Volume",
+    "question": "A right circular cylinder has a radius of 2 and a height of 5. What is its volume?",
+    "options": {
+      "A": "10π",
+      "B": "20π",
+      "C": "40π",
+      "D": "100π"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 19,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Percentages",
+    "question": "After a 20% discount, a pair of shoes costs 64 dollars. What was the original price, in dollars?",
+    "options": {
+      "A": "80",
+      "B": "76.8",
+      "C": "84",
+      "D": "51.2"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 19,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Equations",
+    "question": "Find the product of the roots of the equation x(x - √5) = 0.",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "3",
+      "D": "2",
+      "E": "√5"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2023 · 9 April (book: Ch.9 No.24)"
+  },
+  {
+    "day": 19,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Proportion",
+    "question": "If 2.8 kg of sweets cost 19 manats 60 qapiks, how much do 3 kg cost (in manats)?",
+    "options": {
+      "A": "25",
+      "B": "21",
+      "C": "20",
+      "D": "22",
+      "E": "30"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2023 · 30 April (book: Ch.3 No.25)"
+  },
+  {
+    "day": 19,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Volume",
+    "question": "Find the volume of a rectangular parallelepiped with edges 2 cm, 5 cm and 6 cm.",
+    "options": {
+      "A": "120 cm³",
+      "B": "30 cm³",
+      "C": "60 cm³",
+      "D": "90 cm³",
+      "E": "100 cm³"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 16 June (book: Ch.22 No.3)"
+  },
+  {
+    "day": 19,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Parallelogram",
+    "question": "A side of a parallelogram is 10 cm and the height drawn to this side is 7 cm. Find the area of the parallelogram.",
+    "options": {
+      "A": "35 cm²",
+      "B": "70 cm²",
+      "C": "54 cm²",
+      "D": "42 cm²",
+      "E": "56 cm²"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 18 June (book: Ch.19 No.2)"
+  },
+  {
+    "day": 20,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Linear equations (graphs)",
+    "question": "A line passes through the points (0, 4) and (2, 0). Which equation represents the line?",
+    "options": {
+      "A": "y = 2x + 4",
+      "B": "y = -2x + 4",
+      "C": "y = -1/2x + 4",
+      "D": "y = 4x - 2"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 20,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Exponents",
+    "question": "For x ≠ 0, which expression is equivalent to (x⁵ · x³)/(x²) ?",
+    "options": {
+      "A": "x^4",
+      "B": "x^6",
+      "C": "x^(10)",
+      "D": "x^(13)"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 20,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Parallel lines",
+    "question": "Two parallel lines are cut by a transversal. A pair of alternate interior angles measure (2x + 15)° and (3x - 10)°. What is the measure of each of these angles?",
+    "options": {
+      "A": "25°",
+      "B": "115°",
+      "C": "65°",
+      "D": "50°"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 20,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Statistics (median)",
+    "question": "What is the median of the data set 9, 3, 7, 12, 5, 10 ?",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "7.67"
+    },
+    "correct": "B",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 20,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Vieta's theorem",
+    "question": "The roots of x² + 8x + 4 = 0 are x_1 and x_2. Find √(x_1² + x_2² + 2x_1x_2)/(x_1² x_2²).",
+    "options": {
+      "A": "5",
+      "B": "8",
+      "C": "2",
+      "D": "1",
+      "E": "4"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 1 May (book: Ch.9 No.22)"
+  },
+  {
+    "day": 20,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Equations",
+    "question": "Find the product of the roots of the equation (√2x)² = 4.",
+    "options": {
+      "A": "-1",
+      "B": "1",
+      "C": "2",
+      "D": "0",
+      "E": "-2"
+    },
+    "correct": "E",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 17 June (book: Ch.9 No.11)"
+  },
+  {
+    "day": 20,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Circles",
+    "question": "The ratio of the circumferences of two circles is C_1 : C_2 = 7. Find the ratio of their radii R_1 : R_2.",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "14",
+      "D": "7",
+      "E": "10"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 18 June (book: Ch.16 No.4)"
+  },
+  {
+    "day": 20,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Circles",
+    "question": "From point B, tangent BA and secant BCD are drawn to a circle (A is the point of tangency). BC = 9 and CD = 7. Find x = BA.",
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "13",
+      "E": "10"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2020 · 10 June (book: Ch.16 No.1)"
+  },
+  {
+    "day": 21,
+    "n": 1,
+    "exam": "SAT",
+    "topic": "Linear equations (no solution)",
+    "question": "For what value of a does the equation a(x - 2) = 3x + 5 have no solution?",
+    "options": {
+      "A": "-3",
+      "B": "2",
+      "C": "3",
+      "D": "5"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 21,
+    "n": 2,
+    "exam": "SAT",
+    "topic": "Functions",
+    "question": "If f(x) = 2x + 1 and g(x) = x², what is the value of f(g(3)) ?",
+    "options": {
+      "A": "13",
+      "B": "49",
+      "C": "19",
+      "D": "10"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 21,
+    "n": 3,
+    "exam": "SAT",
+    "topic": "Coordinate geometry",
+    "question": "What is the distance between the points (1, 2) and (7, 10) in the xy-plane?",
+    "options": {
+      "A": "10",
+      "B": "8",
+      "C": "14",
+      "D": "6"
+    },
+    "correct": "A",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 21,
+    "n": 4,
+    "exam": "SAT",
+    "topic": "Rates",
+    "question": "A worker packs 45 boxes in 3 hours. At this rate, how many boxes will the worker pack in 8 hours?",
+    "options": {
+      "A": "105",
+      "B": "135",
+      "C": "360",
+      "D": "120"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "Original DigiMath question, Digital SAT style"
+  },
+  {
+    "day": 21,
+    "n": 5,
+    "exam": "DİM",
+    "topic": "Proportion",
+    "question": "Find the product xy if 5/x = y/10.",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "25",
+      "D": "50",
+      "E": "2"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 16 April (book: Ch.3 No.12)"
+  },
+  {
+    "day": 21,
+    "n": 6,
+    "exam": "DİM",
+    "topic": "Proportion",
+    "question": "A boat travels 480 km in 8 hours. How many kilometres will it travel in 6 hours at the same speed?",
+    "options": {
+      "A": "320 km",
+      "B": "240 km",
+      "C": "180 km",
+      "D": "360 km",
+      "E": "420 km"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2024 · 7 April (book: Ch.3 No.29)"
+  },
+  {
+    "day": 21,
+    "n": 7,
+    "exam": "DİM",
+    "topic": "Cube",
+    "question": "The total surface area of a cube is 24 cm². Find the volume of the cube.",
+    "options": {
+      "A": "18 cm³",
+      "B": "6 cm³",
+      "C": "12 cm³",
+      "D": "8 cm³",
+      "E": "15 cm³"
+    },
+    "correct": "D",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2022 · 17 April (book: Ch.22 No.6)"
+  },
+  {
+    "day": 21,
+    "n": 8,
+    "exam": "DİM",
+    "topic": "Area",
+    "question": "How many times larger is the area of a square with side 30 cm than the area of a square with side 6 cm?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "25",
+      "D": "36",
+      "E": "10"
+    },
+    "correct": "C",
+    "desmos_used": false,
+    "source": "DİM 9th-grade exam 2021 · 2 June (book: Ch.19 No.3)"
+  }
+]
